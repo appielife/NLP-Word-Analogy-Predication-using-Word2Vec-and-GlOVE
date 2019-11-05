@@ -1,0 +1,1724 @@
+
+baghdad iraq spain madrid
+Predictied:madrid
+
+
+baghdad iraq france paris
+Predictied:paris
+
+
+london england france paris
+Predictied:paris
+
+
+london england iraq baghdad
+Predictied:baghdad
+
+
+madrid spain france paris
+Predictied:paris
+
+
+madrid spain iraq baghdad
+Predictied:baghdad
+
+
+paris france iraq baghdad
+Predictied:baghdad
+
+
+paris france england london
+Predictied:london
+
+
+paris france spain madrid
+Predictied:madrid
+
+
+houston texas pennsylvania philadelphia
+Predictied:philadelphia
+
+
+houston texas massachusetts boston
+Predictied:boston
+
+
+philadelphia pennsylvania massachusetts boston
+Predictied:boston
+
+
+philadelphia pennsylvania washington seattle
+Predictied:seattle
+
+
+dallas texas massachusetts boston
+Predictied:boston
+
+
+austin texas florida miami
+Predictied:miami
+
+
+boston massachusetts florida miami
+Predictied:miami
+
+
+boy girl sister brother
+Predictied:brother
+
+
+boy girl mom dad
+Predictied:dad
+
+
+boy girl mother father
+Predictied:father
+
+
+boy girl grandmother grandfather
+Predictied:grandfather
+
+
+boy girl she he
+Predictied:he
+
+
+boy girl her his
+Predictied:his
+
+
+boy girl queen king
+Predictied:king
+
+
+boy girl woman man
+Predictied:man
+
+
+boy girl daughter son
+Predictied:son
+
+
+brother sister mom dad
+Predictied:dad
+
+
+brother sister mother father
+Predictied:father
+
+
+brother sister grandmother grandfather
+Predictied:grandfather
+
+
+brother sister she he
+Predictied:he
+
+
+brother sister her his
+Predictied:his
+
+
+brother sister queen king
+Predictied:king
+
+
+brother sister woman man
+Predictied:man
+
+
+brother sister princess prince
+Predictied:prince
+
+
+brother sister daughter son
+Predictied:son
+
+
+brother sister girl boy
+Predictied:boy
+
+
+brothers sisters mom dad
+Predictied:dad
+
+
+brothers sisters mother father
+Predictied:father
+
+
+brothers sisters grandmother grandfather
+Predictied:grandfather
+
+
+brothers sisters she he
+Predictied:he
+
+
+brothers sisters her his
+Predictied:his
+
+
+brothers sisters queen king
+Predictied:king
+
+
+brothers sisters woman man
+Predictied:man
+
+
+brothers sisters princess prince
+Predictied:prince
+
+
+brothers sisters daughter son
+Predictied:son
+
+
+brothers sisters girl boy
+Predictied:boy
+
+
+brothers sisters sister brother
+Predictied:brother
+
+
+dad mom mother father
+Predictied:father
+
+
+dad mom grandmother grandfather
+Predictied:grandfather
+
+
+dad mom she he
+Predictied:he
+
+
+dad mom her his
+Predictied:his
+
+
+dad mom wife husband
+Predictied:husband
+
+
+dad mom queen king
+Predictied:king
+
+
+dad mom woman man
+Predictied:man
+
+
+dad mom princess prince
+Predictied:prince
+
+
+dad mom daughter son
+Predictied:son
+
+
+dad mom girl boy
+Predictied:boy
+
+
+dad mom sister brother
+Predictied:brother
+
+
+father mother grandmother grandfather
+Predictied:grandfather
+
+
+father mother she he
+Predictied:he
+
+
+father mother her his
+Predictied:his
+
+
+father mother queen king
+Predictied:king
+
+
+father mother woman man
+Predictied:man
+
+
+father mother princess prince
+Predictied:prince
+
+
+father mother daughter son
+Predictied:son
+
+
+father mother girl boy
+Predictied:boy
+
+
+father mother sister brother
+Predictied:brother
+
+
+father mother mom dad
+Predictied:dad
+
+
+grandfather grandmother she he
+Predictied:he
+
+
+grandfather grandmother her his
+Predictied:his
+
+
+grandfather grandmother queen king
+Predictied:king
+
+
+grandfather grandmother woman man
+Predictied:man
+
+
+grandfather grandmother princess prince
+Predictied:prince
+
+
+grandfather grandmother daughter son
+Predictied:son
+
+
+grandfather grandmother girl boy
+Predictied:boy
+
+
+grandfather grandmother sister brother
+Predictied:brother
+
+
+grandfather grandmother mom dad
+Predictied:dad
+
+
+grandfather grandmother mother father
+Predictied:father
+
+
+he she her his
+Predictied:his
+
+
+he she queen king
+Predictied:king
+
+
+he she woman man
+Predictied:man
+
+
+he she princess prince
+Predictied:prince
+
+
+he she daughter son
+Predictied:son
+
+
+he she girl boy
+Predictied:boy
+
+
+he she sister brother
+Predictied:brother
+
+
+he she sisters brothers
+Predictied:brothers
+
+
+he she mom dad
+Predictied:dad
+
+
+he she mother father
+Predictied:father
+
+
+he she grandmother grandfather
+Predictied:grandfather
+
+
+his her queen king
+Predictied:king
+
+
+his her woman man
+Predictied:man
+
+
+his her princess prince
+Predictied:prince
+
+
+his her daughter son
+Predictied:son
+
+
+his her girl boy
+Predictied:boy
+
+
+his her sister brother
+Predictied:brother
+
+
+his her sisters brothers
+Predictied:brothers
+
+
+his her mom dad
+Predictied:dad
+
+
+his her mother father
+Predictied:father
+
+
+his her grandmother grandfather
+Predictied:grandfather
+
+
+his her she he
+Predictied:he
+
+
+husband wife queen king
+Predictied:king
+
+
+husband wife woman man
+Predictied:man
+
+
+husband wife princess prince
+Predictied:prince
+
+
+husband wife daughter son
+Predictied:son
+
+
+husband wife girl boy
+Predictied:boy
+
+
+husband wife mom dad
+Predictied:dad
+
+
+husband wife mother father
+Predictied:father
+
+
+husband wife she he
+Predictied:he
+
+
+husband wife her his
+Predictied:his
+
+
+king queen woman man
+Predictied:man
+
+
+king queen princess prince
+Predictied:prince
+
+
+king queen daughter son
+Predictied:son
+
+
+king queen girl boy
+Predictied:boy
+
+
+king queen sister brother
+Predictied:brother
+
+
+king queen sisters brothers
+Predictied:brothers
+
+
+king queen mom dad
+Predictied:dad
+
+
+king queen mother father
+Predictied:father
+
+
+king queen grandmother grandfather
+Predictied:grandfather
+
+
+king queen she he
+Predictied:he
+
+
+king queen her his
+Predictied:his
+
+
+man woman princess prince
+Predictied:prince
+
+
+man woman daughter son
+Predictied:son
+
+
+man woman girl boy
+Predictied:boy
+
+
+man woman sister brother
+Predictied:brother
+
+
+man woman sisters brothers
+Predictied:brothers
+
+
+man woman mom dad
+Predictied:dad
+
+
+man woman mother father
+Predictied:father
+
+
+man woman grandmother grandfather
+Predictied:grandfather
+
+
+man woman she he
+Predictied:he
+
+
+man woman her his
+Predictied:his
+
+
+man woman queen king
+Predictied:king
+
+
+prince princess daughter son
+Predictied:son
+
+
+prince princess girl boy
+Predictied:boy
+
+
+prince princess sister brother
+Predictied:brother
+
+
+prince princess mom dad
+Predictied:dad
+
+
+prince princess mother father
+Predictied:father
+
+
+prince princess grandmother grandfather
+Predictied:grandfather
+
+
+prince princess she he
+Predictied:he
+
+
+prince princess her his
+Predictied:his
+
+
+prince princess queen king
+Predictied:king
+
+
+prince princess woman man
+Predictied:man
+
+
+son daughter girl boy
+Predictied:boy
+
+
+son daughter sister brother
+Predictied:brother
+
+
+son daughter sisters brothers
+Predictied:brothers
+
+
+son daughter mom dad
+Predictied:dad
+
+
+son daughter mother father
+Predictied:father
+
+
+son daughter grandmother grandfather
+Predictied:grandfather
+
+
+son daughter she he
+Predictied:he
+
+
+son daughter her his
+Predictied:his
+
+
+son daughter queen king
+Predictied:king
+
+
+son daughter woman man
+Predictied:man
+
+
+son daughter princess prince
+Predictied:prince
+
+
+complete completely possibly possible
+Predictied:possible
+
+
+complete completely seriously serious
+Predictied:serious
+
+
+most mostly possibly possible
+Predictied:possible
+
+
+most mostly seriously serious
+Predictied:serious
+
+
+obvious obviously seriously serious
+Predictied:serious
+
+
+possible possibly seriously serious
+Predictied:serious
+
+
+quick quickly seriously serious
+Predictied:serious
+
+
+quick quickly slowly slow
+Predictied:slow
+
+
+quick quickly possibly possible
+Predictied:possible
+
+
+rare rarely seriously serious
+Predictied:serious
+
+
+serious seriously possibly possible
+Predictied:possible
+
+
+slow slowly seriously serious
+Predictied:serious
+
+
+typical typically usually usual
+Predictied:usual
+
+
+typical typically seriously serious
+Predictied:serious
+
+
+usual usually seriously serious
+Predictied:serious
+
+
+usual usually typically typical
+Predictied:typical
+
+
+bad worse bigger big
+Predictied:big
+
+
+bad worse easier easy
+Predictied:easy
+
+
+bad worse better good
+Predictied:good
+
+
+bad worse greater great
+Predictied:great
+
+
+bad worse harder hard
+Predictied:hard
+
+
+bad worse longer long
+Predictied:long
+
+
+bad worse smaller small
+Predictied:small
+
+
+bad worse stronger strong
+Predictied:strong
+
+
+bad worse younger young
+Predictied:young
+
+
+big bigger easier easy
+Predictied:easy
+
+
+big bigger faster fast
+Predictied:fast
+
+
+big bigger better good
+Predictied:good
+
+
+big bigger greater great
+Predictied:great
+
+
+big bigger harder hard
+Predictied:hard
+
+
+big bigger higher high
+Predictied:high
+
+
+big bigger smaller small
+Predictied:small
+
+
+big bigger stronger strong
+Predictied:strong
+
+
+big bigger younger young
+Predictied:young
+
+
+big bigger worse bad
+Predictied:bad
+
+
+easy easier faster fast
+Predictied:fast
+
+
+easy easier better good
+Predictied:good
+
+
+easy easier greater great
+Predictied:great
+
+
+easy easier harder hard
+Predictied:hard
+
+
+easy easier larger large
+Predictied:large
+
+
+easy easier smaller small
+Predictied:small
+
+
+easy easier stronger strong
+Predictied:strong
+
+
+easy easier younger young
+Predictied:young
+
+
+easy easier worse bad
+Predictied:bad
+
+
+easy easier bigger big
+Predictied:big
+
+
+fast faster better good
+Predictied:good
+
+
+fast faster greater great
+Predictied:great
+
+
+fast faster harder hard
+Predictied:hard
+
+
+fast faster larger large
+Predictied:large
+
+
+fast faster longer long
+Predictied:long
+
+
+fast faster smaller small
+Predictied:small
+
+
+fast faster stronger strong
+Predictied:strong
+
+
+fast faster younger young
+Predictied:young
+
+
+fast faster worse bad
+Predictied:bad
+
+
+fast faster bigger big
+Predictied:big
+
+
+fast faster easier easy
+Predictied:easy
+
+
+good better greater great
+Predictied:great
+
+
+good better harder hard
+Predictied:hard
+
+
+good better smaller small
+Predictied:small
+
+
+good better stronger strong
+Predictied:strong
+
+
+good better younger young
+Predictied:young
+
+
+good better worse bad
+Predictied:bad
+
+
+good better bigger big
+Predictied:big
+
+
+good better easier easy
+Predictied:easy
+
+
+good better faster fast
+Predictied:fast
+
+
+great greater harder hard
+Predictied:hard
+
+
+great greater higher high
+Predictied:high
+
+
+great greater smaller small
+Predictied:small
+
+
+great greater stronger strong
+Predictied:strong
+
+
+great greater worse bad
+Predictied:bad
+
+
+great greater bigger big
+Predictied:big
+
+
+great greater easier easy
+Predictied:easy
+
+
+great greater faster fast
+Predictied:fast
+
+
+great greater better good
+Predictied:good
+
+
+hard harder larger large
+Predictied:large
+
+
+hard harder longer long
+Predictied:long
+
+
+hard harder smaller small
+Predictied:small
+
+
+hard harder stronger strong
+Predictied:strong
+
+
+hard harder younger young
+Predictied:young
+
+
+hard harder worse bad
+Predictied:bad
+
+
+hard harder bigger big
+Predictied:big
+
+
+hard harder easier easy
+Predictied:easy
+
+
+hard harder better good
+Predictied:good
+
+
+high higher longer long
+Predictied:long
+
+
+high higher older old
+Predictied:old
+
+
+high higher smaller small
+Predictied:small
+
+
+high higher stronger strong
+Predictied:strong
+
+
+high higher younger young
+Predictied:young
+
+
+high higher worse bad
+Predictied:bad
+
+
+high higher bigger big
+Predictied:big
+
+
+high higher easier easy
+Predictied:easy
+
+
+high higher better good
+Predictied:good
+
+
+high higher greater great
+Predictied:great
+
+
+high higher harder hard
+Predictied:hard
+
+
+large larger smaller small
+Predictied:small
+
+
+large larger stronger strong
+Predictied:strong
+
+
+large larger younger young
+Predictied:young
+
+
+large larger worse bad
+Predictied:bad
+
+
+large larger easier easy
+Predictied:easy
+
+
+large larger faster fast
+Predictied:fast
+
+
+large larger better good
+Predictied:good
+
+
+large larger harder hard
+Predictied:hard
+
+
+long longer older old
+Predictied:old
+
+
+long longer smaller small
+Predictied:small
+
+
+long longer stronger strong
+Predictied:strong
+
+
+long longer younger young
+Predictied:young
+
+
+long longer worse bad
+Predictied:bad
+
+
+long longer bigger big
+Predictied:big
+
+
+long longer faster fast
+Predictied:fast
+
+
+long longer better good
+Predictied:good
+
+
+long longer harder hard
+Predictied:hard
+
+
+long longer larger large
+Predictied:large
+
+
+low lower smaller small
+Predictied:small
+
+
+low lower stronger strong
+Predictied:strong
+
+
+low lower younger young
+Predictied:young
+
+
+low lower worse bad
+Predictied:bad
+
+
+low lower bigger big
+Predictied:big
+
+
+low lower easier easy
+Predictied:easy
+
+
+low lower faster fast
+Predictied:fast
+
+
+low lower better good
+Predictied:good
+
+
+low lower harder hard
+Predictied:hard
+
+
+low lower higher high
+Predictied:high
+
+
+low lower larger large
+Predictied:large
+
+
+low lower longer long
+Predictied:long
+
+
+old older smaller small
+Predictied:small
+
+
+old older stronger strong
+Predictied:strong
+
+
+old older bigger big
+Predictied:big
+
+
+old older faster fast
+Predictied:fast
+
+
+old older better good
+Predictied:good
+
+
+old older harder hard
+Predictied:hard
+
+
+old older higher high
+Predictied:high
+
+
+old older longer long
+Predictied:long
+
+
+small smaller stronger strong
+Predictied:strong
+
+
+small smaller younger young
+Predictied:young
+
+
+small smaller worse bad
+Predictied:bad
+
+
+small smaller bigger big
+Predictied:big
+
+
+small smaller easier easy
+Predictied:easy
+
+
+small smaller faster fast
+Predictied:fast
+
+
+small smaller better good
+Predictied:good
+
+
+small smaller harder hard
+Predictied:hard
+
+
+small smaller higher high
+Predictied:high
+
+
+small smaller larger large
+Predictied:large
+
+
+small smaller lower low
+Predictied:low
+
+
+strong stronger younger young
+Predictied:young
+
+
+strong stronger worse bad
+Predictied:bad
+
+
+strong stronger bigger big
+Predictied:big
+
+
+strong stronger easier easy
+Predictied:easy
+
+
+strong stronger better good
+Predictied:good
+
+
+strong stronger harder hard
+Predictied:hard
+
+
+strong stronger higher high
+Predictied:high
+
+
+strong stronger larger large
+Predictied:large
+
+
+strong stronger longer long
+Predictied:long
+
+
+strong stronger lower low
+Predictied:low
+
+
+strong stronger smaller small
+Predictied:small
+
+
+young younger worse bad
+Predictied:bad
+
+
+young younger bigger big
+Predictied:big
+
+
+young younger easier easy
+Predictied:easy
+
+
+young younger faster fast
+Predictied:fast
+
+
+young younger better good
+Predictied:good
+
+
+young younger harder hard
+Predictied:hard
+
+
+young younger higher high
+Predictied:high
+
+
+young younger larger large
+Predictied:large
+
+
+young younger longer long
+Predictied:long
+
+
+young younger smaller small
+Predictied:small
+
+
+young younger stronger strong
+Predictied:strong
+
+
+bad worst biggest big
+Predictied:big
+
+
+bad worst best good
+Predictied:good
+
+
+bad worst greatest great
+Predictied:great
+
+
+bad worst hottest hot
+Predictied:hot
+
+
+big biggest best good
+Predictied:good
+
+
+big biggest greatest great
+Predictied:great
+
+
+big biggest highest high
+Predictied:high
+
+
+big biggest hottest hot
+Predictied:hot
+
+
+big biggest largest large
+Predictied:large
+
+
+big biggest worst bad
+Predictied:bad
+
+
+good best greatest great
+Predictied:great
+
+
+good best hottest hot
+Predictied:hot
+
+
+great greatest highest high
+Predictied:high
+
+
+great greatest hottest hot
+Predictied:hot
+
+
+great greatest largest large
+Predictied:large
+
+
+great greatest biggest big
+Predictied:big
+
+
+great greatest best good
+Predictied:good
+
+
+high highest hottest hot
+Predictied:hot
+
+
+high highest worst bad
+Predictied:bad
+
+
+high highest biggest big
+Predictied:big
+
+
+high highest greatest great
+Predictied:great
+
+
+hot hottest largest large
+Predictied:large
+
+
+hot hottest biggest big
+Predictied:big
+
+
+hot hottest greatest great
+Predictied:great
+
+
+large largest worst bad
+Predictied:bad
+
+
+large largest best good
+Predictied:good
+
+
+large largest greatest great
+Predictied:great
+
+
+large largest highest high
+Predictied:high
+
+
+large largest hottest hot
+Predictied:hot
+
+
+china chinese english england
+Predictied:england
+
+
+china chinese french france
+Predictied:france
+
+
+china chinese german germany
+Predictied:germany
+
+
+china chinese indian india
+Predictied:india
+
+
+china chinese israeli israel
+Predictied:israel
+
+
+china chinese italian italy
+Predictied:italy
+
+
+china chinese japanese japan
+Predictied:japan
+
+
+china chinese russian russia
+Predictied:russia
+
+
+china chinese spanish spain
+Predictied:spain
+
+
+england english french france
+Predictied:france
+
+
+england english german germany
+Predictied:germany
+
+
+england english indian india
+Predictied:india
+
+
+england english israeli israel
+Predictied:israel
+
+
+england english italian italy
+Predictied:italy
+
+
+england english japanese japan
+Predictied:japan
+
+
+england english russian russia
+Predictied:russia
+
+
+england english spanish spain
+Predictied:spain
+
+
+england english chinese china
+Predictied:china
+
+
+france french german germany
+Predictied:germany
+
+
+france french indian india
+Predictied:india
+
+
+france french israeli israel
+Predictied:israel
+
+
+france french italian italy
+Predictied:italy
+
+
+france french japanese japan
+Predictied:japan
+
+
+france french russian russia
+Predictied:russia
+
+
+france french spanish spain
+Predictied:spain
+
+
+france french chinese china
+Predictied:china
+
+
+germany german indian india
+Predictied:india
+
+
+germany german israeli israel
+Predictied:israel
+
+
+germany german italian italy
+Predictied:italy
+
+
+germany german japanese japan
+Predictied:japan
+
+
+germany german russian russia
+Predictied:russia
+
+
+germany german spanish spain
+Predictied:spain
+
+
+germany german chinese china
+Predictied:china
+
+
+germany german english england
+Predictied:england
+
+
+india indian israeli israel
+Predictied:israel
+
+
+india indian italian italy
+Predictied:italy
+
+
+india indian japanese japan
+Predictied:japan
+
+
+india indian russian russia
+Predictied:russia
+
+
+india indian spanish spain
+Predictied:spain
+
+
+india indian chinese china
+Predictied:china
+
+
+india indian english england
+Predictied:england
+
+
+india indian french france
+Predictied:france
+
+
+india indian german germany
+Predictied:germany
+
+
+israel israeli italian italy
+Predictied:italy
+
+
+israel israeli japanese japan
+Predictied:japan
+
+
+israel israeli russian russia
+Predictied:russia
+
+
+israel israeli spanish spain
+Predictied:spain
+
+
+israel israeli chinese china
+Predictied:china
+
+
+israel israeli english england
+Predictied:england
+
+
+israel israeli french france
+Predictied:france
+
+
+israel israeli german germany
+Predictied:germany
+
+
+israel israeli indian india
+Predictied:india
+
+
+italy italian japanese japan
+Predictied:japan
+
+
+italy italian russian russia
+Predictied:russia
+
+
+italy italian spanish spain
+Predictied:spain
+
+
+italy italian chinese china
+Predictied:china
+
+
+italy italian english england
+Predictied:england
+
+
+italy italian french france
+Predictied:france
+
+
+italy italian german germany
+Predictied:germany
+
+
+italy italian indian india
+Predictied:india
+
+
+japan japanese russian russia
+Predictied:russia
+
+
+japan japanese spanish spain
+Predictied:spain
+
+
+japan japanese chinese china
+Predictied:china
+
+
+japan japanese english england
+Predictied:england
+
+
+japan japanese french france
+Predictied:france
+
+
+japan japanese german germany
+Predictied:germany
+
+
+japan japanese indian india
+Predictied:india
+
+
+japan japanese israeli israel
+Predictied:israel
+
+
+russia russian spanish spain
+Predictied:spain
+
+
+russia russian chinese china
+Predictied:china
+
+
+russia russian english england
+Predictied:england
+
+
+russia russian french france
+Predictied:france
+
+
+russia russian german germany
+Predictied:germany
+
+
+russia russian indian india
+Predictied:india
+
+
+russia russian israeli israel
+Predictied:israel
+
+
+russia russian italian italy
+Predictied:italy
+
+
+russia russian japanese japan
+Predictied:japan
+
+
+spain spanish chinese china
+Predictied:china
+
+
+spain spanish english england
+Predictied:england
+
+
+spain spanish french france
+Predictied:france
+
+
+spain spanish german germany
+Predictied:germany
+
+
+spain spanish indian india
+Predictied:india
+
+
+spain spanish israeli israel
+Predictied:israel
+
+
+spain spanish italian italy
+Predictied:italy
+
+
+spain spanish japanese japan
+Predictied:japan
+
+
+spain spanish russian russia
+Predictied:russia
+

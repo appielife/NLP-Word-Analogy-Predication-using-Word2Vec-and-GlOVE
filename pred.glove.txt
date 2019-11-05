@@ -1,0 +1,7 @@
+capital: 0.75 1.0 1.0
+city-in-state: 0.38 0.72 0.77
+family: 0.86 1.0 1.0
+adjective-to-adverb: 0.17 0.38 0.47
+comparative: 0.7 0.95 0.98
+superlative: 0.69 1.0 1.0
+nationality-adjective: 1.0 1.0 1.0

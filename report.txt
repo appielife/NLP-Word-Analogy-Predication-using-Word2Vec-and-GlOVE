@@ -1,0 +1,732 @@
+
+baghdad iraq england london
+Predictied:melbourne
+
+
+london england spain madrid
+Predictied:paris
+
+
+madrid spain england london
+Predictied:manchester
+
+
+houston texas washington seattle
+Predictied:chicago
+
+
+houston texas florida miami
+Predictied:tampa
+
+
+philadelphia pennsylvania texas dallas
+Predictied:houston
+
+
+philadelphia pennsylvania texas austin
+Predictied:houston
+
+
+philadelphia pennsylvania florida miami
+Predictied:tampa
+
+
+dallas texas washington seattle
+Predictied:chicago
+
+
+dallas texas florida miami
+Predictied:tampa
+
+
+austin texas massachusetts boston
+Predictied:cambridge
+
+
+austin texas washington seattle
+Predictied:press
+
+
+boston massachusetts washington seattle
+Predictied:chicago
+
+
+seattle washington florida miami
+Predictied:tampa
+
+
+boy girl sisters brothers
+Predictied:sons
+
+
+boy girl wife husband
+Predictied:brother
+
+
+boy girl princess prince
+Predictied:queen
+
+
+brother sister sisters brothers
+Predictied:sons
+
+
+brother sister wife husband
+Predictied:son
+
+
+brothers sisters wife husband
+Predictied:brother
+
+
+dad mom sisters brothers
+Predictied:sons
+
+
+father mother wife husband
+Predictied:brother
+
+
+father mother sisters brothers
+Predictied:sons
+
+
+grandfather grandmother wife husband
+Predictied:son
+
+
+grandfather grandmother sisters brothers
+Predictied:sons
+
+
+he she wife husband
+Predictied:brother
+
+
+his her wife husband
+Predictied:brother
+
+
+husband wife sister brother
+Predictied:mother
+
+
+husband wife sisters brothers
+Predictied:daughters
+
+
+husband wife grandmother grandfather
+Predictied:mother
+
+
+king queen wife husband
+Predictied:son
+
+
+man woman wife husband
+Predictied:brother
+
+
+prince princess sisters brothers
+Predictied:sons
+
+
+prince princess wife husband
+Predictied:brother
+
+
+son daughter wife husband
+Predictied:brother
+
+
+complete completely mostly most
+Predictied:including
+
+
+complete completely obviously obvious
+Predictied:good
+
+
+complete completely quickly quick
+Predictied:full
+
+
+complete completely rarely rare
+Predictied:required
+
+
+complete completely slowly slow
+Predictied:start
+
+
+complete completely typically typical
+Predictied:required
+
+
+complete completely usually usual
+Predictied:typically
+
+
+most mostly obviously obvious
+Predictied:certainly
+
+
+most mostly quickly quick
+Predictied:even
+
+
+most mostly rarely rare
+Predictied:even
+
+
+most mostly slowly slow
+Predictied:quickly
+
+
+most mostly typically typical
+Predictied:usually
+
+
+most mostly usually usual
+Predictied:can
+
+
+most mostly completely complete
+Predictied:it
+
+
+obvious obviously possibly possible
+Predictied:apparent
+
+
+obvious obviously quickly quick
+Predictied:soon
+
+
+obvious obviously rarely rare
+Predictied:often
+
+
+obvious obviously slowly slow
+Predictied:rapidly
+
+
+obvious obviously typically typical
+Predictied:usually
+
+
+obvious obviously usually usual
+Predictied:typically
+
+
+obvious obviously completely complete
+Predictied:entirely
+
+
+obvious obviously mostly most
+Predictied:mainly
+
+
+possible possibly quickly quick
+Predictied:immediately
+
+
+possible possibly rarely rare
+Predictied:any
+
+
+possible possibly slowly slow
+Predictied:quickly
+
+
+possible possibly typically typical
+Predictied:usually
+
+
+possible possibly usually usual
+Predictied:typically
+
+
+possible possibly completely complete
+Predictied:clear
+
+
+possible possibly mostly most
+Predictied:many
+
+
+possible possibly obviously obvious
+Predictied:sure
+
+
+quick quickly rarely rare
+Predictied:easy
+
+
+quick quickly typically typical
+Predictied:usually
+
+
+quick quickly usually usual
+Predictied:typically
+
+
+quick quickly completely complete
+Predictied:easy
+
+
+quick quickly mostly most
+Predictied:mainly
+
+
+quick quickly obviously obvious
+Predictied:good
+
+
+rare rarely slowly slow
+Predictied:rapidly
+
+
+rare rarely typically typical
+Predictied:unusual
+
+
+rare rarely usually usual
+Predictied:unusual
+
+
+rare rarely completely complete
+Predictied:totally
+
+
+rare rarely mostly most
+Predictied:mainly
+
+
+rare rarely obviously obvious
+Predictied:very
+
+
+rare rarely possibly possible
+Predictied:potentially
+
+
+rare rarely quickly quick
+Predictied:soon
+
+
+serious seriously slowly slow
+Predictied:rapidly
+
+
+serious seriously typically typical
+Predictied:usually
+
+
+serious seriously usually usual
+Predictied:typically
+
+
+serious seriously completely complete
+Predictied:entirely
+
+
+serious seriously mostly most
+Predictied:mainly
+
+
+serious seriously obviously obvious
+Predictied:kind
+
+
+serious seriously quickly quick
+Predictied:yet
+
+
+serious seriously rarely rare
+Predictied:usually
+
+
+slow slowly typically typical
+Predictied:usually
+
+
+slow slowly usually usual
+Predictied:typically
+
+
+slow slowly completely complete
+Predictied:totally
+
+
+slow slowly mostly most
+Predictied:mainly
+
+
+slow slowly obviously obvious
+Predictied:certainly
+
+
+slow slowly possibly possible
+Predictied:likely
+
+
+slow slowly quickly quick
+Predictied:difficult
+
+
+slow slowly rarely rare
+Predictied:often
+
+
+typical typically completely complete
+Predictied:totally
+
+
+typical typically mostly most
+Predictied:mainly
+
+
+typical typically obviously obvious
+Predictied:'m
+
+
+typical typically possibly possible
+Predictied:perhaps
+
+
+typical typically quickly quick
+Predictied:soon
+
+
+typical typically rarely rare
+Predictied:unusual
+
+
+typical typically slowly slow
+Predictied:rapidly
+
+
+usual usually completely complete
+Predictied:totally
+
+
+usual usually mostly most
+Predictied:largely
+
+
+usual usually obviously obvious
+Predictied:confident
+
+
+usual usually possibly possible
+Predictied:possibility
+
+
+usual usually quickly quick
+Predictied:pushed
+
+
+usual usually rarely rare
+Predictied:hardly
+
+
+usual usually slowly slow
+Predictied:rapidly
+
+
+bad worse faster fast
+Predictied:speed
+
+
+bad worse higher high
+Predictied:lower
+
+
+bad worse larger large
+Predictied:small
+
+
+bad worse lower low
+Predictied:upper
+
+
+bad worse older old
+Predictied:younger
+
+
+big bigger larger large
+Predictied:small
+
+
+big bigger longer long
+Predictied:still
+
+
+big bigger lower low
+Predictied:upper
+
+
+big bigger older old
+Predictied:young
+
+
+easy easier higher high
+Predictied:low
+
+
+easy easier longer long
+Predictied:always
+
+
+easy easier lower low
+Predictied:higher
+
+
+easy easier older old
+Predictied:age
+
+
+fast faster higher high
+Predictied:low
+
+
+fast faster lower low
+Predictied:upper
+
+
+fast faster older old
+Predictied:young
+
+
+good better higher high
+Predictied:low
+
+
+good better larger large
+Predictied:small
+
+
+good better longer long
+Predictied:always
+
+
+good better lower low
+Predictied:higher
+
+
+good better older old
+Predictied:younger
+
+
+great greater larger large
+Predictied:big
+
+
+great greater longer long
+Predictied:always
+
+
+great greater lower low
+Predictied:flat
+
+
+great greater older old
+Predictied:younger
+
+
+great greater younger young
+Predictied:father
+
+
+hard harder higher high
+Predictied:low
+
+
+hard harder lower low
+Predictied:higher
+
+
+hard harder older old
+Predictied:age
+
+
+hard harder faster fast
+Predictied:speed
+
+
+hard harder greater great
+Predictied:of
+
+
+high higher larger large
+Predictied:small
+
+
+high higher lower low
+Predictied:upper
+
+
+high higher faster fast
+Predictied:speed
+
+
+large larger longer long
+Predictied:still
+
+
+large larger lower low
+Predictied:higher
+
+
+large larger older old
+Predictied:younger
+
+
+large larger bigger big
+Predictied:huge
+
+
+large larger greater great
+Predictied:considerable
+
+
+large larger higher high
+Predictied:low
+
+
+long longer lower low
+Predictied:higher
+
+
+long longer easier easy
+Predictied:hard
+
+
+long longer greater great
+Predictied:increasing
+
+
+long longer higher high
+Predictied:low
+
+
+low lower older old
+Predictied:younger
+
+
+low lower greater great
+Predictied:increasing
+
+
+old older younger young
+Predictied:father
+
+
+old older worse bad
+Predictied:worst
+
+
+old older easier easy
+Predictied:way
+
+
+old older greater great
+Predictied:a
+
+
+old older larger large
+Predictied:a
+
+
+old older lower low
+Predictied:the
+
+
+small smaller greater great
+Predictied:considerable
+
+
+small smaller longer long
+Predictied:still
+
+
+small smaller older old
+Predictied:age
+
+
+strong stronger faster fast
+Predictied:speed
+
+
+strong stronger greater great
+Predictied:considerable
+
+
+strong stronger older old
+Predictied:younger
+
+
+young younger greater great
+Predictied:bring
+
+
+young younger lower low
+Predictied:higher
+
+
+young younger older old
+Predictied:children
+
+
+bad worst highest high
+Predictied:higher
+
+
+bad worst largest large
+Predictied:company
+
+
+good best highest high
+Predictied:lowest
+
+
+good best largest large
+Predictied:biggest
+
+
+good best worst bad
+Predictied:worse
+
+
+good best biggest big
+Predictied:huge
+
+
+great greatest worst bad
+Predictied:wake
+
+
+high highest largest large
+Predictied:small
+
+
+high highest best good
+Predictied:well
+
+
+hot hottest worst bad
+Predictied:wake
+
+
+hot hottest best good
+Predictied:well
+
+
+hot hottest highest high
+Predictied:low
+
+
+large largest biggest big
+Predictied:huge
+
